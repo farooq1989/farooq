@@ -1,3 +1,3 @@
 # farooq
 This is my first project
-Authore- Farooq
+Authore- Farooq khan
